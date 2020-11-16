@@ -1,0 +1,15 @@
+div{
+    background-color: whitesmoke;
+    opacity: 90%;
+    width:80%;
+    display: block;
+    margin: auto;
+    text-align: center;
+    
+}
+
+img {
+    border-radius: 50%;
+    width: 400px;
+    height: 400px;
+}
