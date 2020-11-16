@@ -7,7 +7,7 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'csf1paperclick';
-  image: String[] = ['dist/csf1paperclicker/assets/img/boat.jpg', 'dist/csf1paperclicker/assets/img/book.jpg', 'dist/csf1paperclicker/assets/img/cabbage-paper.jpg', 'dist/csf1paperclicker/assets/img/pile.jpg']
+  image: String[] = ['../assets/img/boat.jpg', '../assets/img/book.jpg', '../assets/img/cabbage-paper.jpg', '/assets/img/pile.jpg']
   selectedImage: String
   counter : number = 0
   ngOnInit(): void {
